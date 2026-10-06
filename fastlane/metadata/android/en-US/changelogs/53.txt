@@ -1,0 +1,1 @@
+- Tracking profiles can switch on a paired Bluetooth device, such as your car or headphones
