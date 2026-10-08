@@ -1,1 +1,2 @@
 - Tracking profiles can switch on a paired Bluetooth device, such as your car or headphones
+- Less memory used when opening a day with many points and when sending a large upload backlog
